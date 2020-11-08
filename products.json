@@ -1,0 +1,47 @@
+[
+    {
+      "guid": "693c0181-3579-426f-9f19-f193a8a9dff4",
+      "isActive": false,
+      "price": "$1,123.56",
+      "picture": "http://placehold.it/32x32",
+      "quantity": 20,
+      "description": "Eu proident laborum ullamco pariatur aute fugiat sit. Culpa ipsum ut ut et in nisi ea proident cillum ad dolor. Aute laboris pariatur commodo enim quis dolor consequat nostrud ullamco anim mollit labore ut cupidatat. Magna fugiat officia tempor do fugiat reprehenderit incididunt dolore.\r\n",
+      "production_date": "2019-08-02T02:35:41 +04:00"
+    },
+    {
+      "guid": "8204b99d-1e26-4a56-af13-9ecc7d675acd",
+      "isActive": false,
+      "price": "$3,494.13",
+      "picture": "http://placehold.it/32x32",
+      "quantity": 32,
+      "description": "Dolore tempor ipsum aute amet consequat qui dolore aute consequat officia. Officia adipisicing irure ullamco minim cillum laboris. Ad dolor laborum laboris sunt deserunt minim deserunt officia aliqua fugiat minim sint commodo ad. Ipsum ea mollit dolore cupidatat dolore eiusmod sit mollit excepteur aliquip enim est. Et qui quis laborum ut exercitation qui irure consectetur culpa.\r\n",
+      "production_date": "2015-12-17T01:08:06 +05:00"
+    },
+    {
+      "guid": "be2d4c5f-bdc0-4883-9afa-8f3adb27878c",
+      "isActive": false,
+      "price": "$2,562.26",
+      "picture": "http://placehold.it/32x32",
+      "quantity": 31,
+      "description": "Cupidatat adipisicing ex magna officia tempor tempor sint cupidatat proident. Proident deserunt adipisicing amet veniam duis deserunt voluptate aute sit aute officia occaecat. Cillum in Lorem consectetur voluptate exercitation tempor elit occaecat id aute. Dolor proident reprehenderit duis officia qui esse commodo. Sint et incididunt do Lorem deserunt velit mollit. Exercitation est nostrud duis est duis enim laborum.\r\n",
+      "production_date": "2016-04-19T10:26:28 +04:00"
+    },
+    {
+      "guid": "427739d6-7046-4d20-8e81-51aba60339e8",
+      "isActive": false,
+      "price": "$3,783.06",
+      "picture": "http://placehold.it/32x32",
+      "quantity": 25,
+      "description": "Nisi et amet officia cupidatat. Et non nisi ex qui eiusmod aute. Lorem reprehenderit aliquip id nisi dolore. Voluptate dolore irure sint velit laborum do dolor in aute et id mollit in velit. Dolor amet magna cupidatat velit ad minim nisi dolor cupidatat do est aliqua. Ad id incididunt anim esse sunt voluptate ad consectetur.\r\n",
+      "production_date": "2019-06-27T05:57:55 +04:00"
+    },
+    {
+      "guid": "64b15bfe-cde6-461f-8346-dfbb833c7b36",
+      "isActive": true,
+      "price": "$2,893.15",
+      "picture": "http://placehold.it/32x32",
+      "quantity": 40,
+      "description": "Pariatur elit irure pariatur reprehenderit nulla incididunt ut. Sint nisi elit dolor incididunt quis culpa. Exercitation anim aute veniam ad elit. Duis ea fugiat tempor tempor. Fugiat sit incididunt occaecat eiusmod voluptate ut esse sunt nulla elit anim reprehenderit.\r\n",
+      "production_date": "2018-09-22T12:21:10 +04:00"
+    }
+  ]
